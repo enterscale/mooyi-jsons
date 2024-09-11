@@ -1,0 +1,720 @@
+[
+  {
+    "name": "Government and Public Sector",
+    "value": 1,
+    "subcategories": [
+      {
+        "label": "Civil Servant",
+        "value": "civil_servant"
+      },
+      {
+        "label": "Local Government Official",
+        "value": "local_government_official"
+      },
+      {
+        "label": "Police Officer",
+        "value": "police_officer"
+      },
+      {
+        "label": "Military Personnel (Army, Navy, Air Force)",
+        "value": "military_personnel"
+      },
+      {
+        "label": "Customs Officer",
+        "value": "customs_officer"
+      },
+      {
+        "label": "Immigration Officer",
+        "value": "immigration_officer"
+      },
+      {
+        "label": "Public Health Worker",
+        "value": "public_health_worker"
+      },
+      {
+        "label": "Teacher/Lecturer (Public School/University)",
+        "value": "public_school_teacher_lecturer"
+      }
+    ]
+  },
+  {
+    "name": "Healthcare",
+    "value": 2,
+    "subcategories": [
+      {
+        "label": "Doctor (General Practitioner, Specialist)",
+        "value": "doctor"
+      },
+      {
+        "label": "Nurse/Midwife",
+        "value": "nurse_midwife"
+      },
+      {
+        "label": "Pharmacist",
+        "value": "pharmacist"
+      },
+      {
+        "label": "Medical Laboratory Scientist",
+        "value": "medical_laboratory_scientist"
+      },
+      {
+        "label": "Physiotherapist",
+        "value": "physiotherapist"
+      },
+      {
+        "label": "Dentist",
+        "value": "dentist"
+      },
+      {
+        "label": "Radiologist",
+        "value": "radiologist"
+      },
+      {
+        "label": "Optometrist",
+        "value": "optometrist"
+      },
+      {
+        "label": "Health Educator",
+        "value": "health_educator"
+      },
+      {
+        "label": "Community Health Worker",
+        "value": "community_health_worker"
+      }
+    ]
+  },
+  {
+    "name": "Education",
+    "value": 3,
+    "subcategories": [
+      {
+        "label": "Teacher (Private School)",
+        "value": "private_school_teacher"
+      },
+      {
+        "label": "Lecturer (Private University)",
+        "value": "private_university_lecturer"
+      },
+      {
+        "label": "Academic Researcher",
+        "value": "academic_researcher"
+      },
+      {
+        "label": "School Administrator/Principal",
+        "value": "school_administrator_principal"
+      },
+      {
+        "label": "Educational Consultant",
+        "value": "educational_consultant"
+      },
+      {
+        "label": "Tutor",
+        "value": "tutor"
+      },
+      {
+        "label": "Curriculum Developer",
+        "value": "curriculum_developer"
+      }
+    ]
+  },
+  {
+    "name": "Finance and Banking",
+    "value": 4,
+    "subcategories": [
+      {
+        "label": "Banker (Customer Service, Relationship Manager)",
+        "value": "banker"
+      },
+      {
+        "label": "Accountant",
+        "value": "accountant"
+      },
+      {
+        "label": "Auditor",
+        "value": "auditor"
+      },
+      {
+        "label": "Financial Analyst",
+        "value": "financial_analyst"
+      },
+      {
+        "label": "Investment Banker",
+        "value": "investment_banker"
+      },
+      {
+        "label": "Loan Officer",
+        "value": "loan_officer"
+      },
+      {
+        "label": "Credit Analyst",
+        "value": "credit_analyst"
+      },
+      {
+        "label": "Insurance Agent/Broker",
+        "value": "insurance_agent_broker"
+      },
+      {
+        "label": "Mortgage Advisor",
+        "value": "mortgage_advisor"
+      }
+    ]
+  },
+  {
+    "name": "Information Technology and Telecoms",
+    "value": 5,
+    "subcategories": [
+      {
+        "label": "Software Developer/Engineer",
+        "value": "software_developer_engineer"
+      },
+      {
+        "label": "Data Scientist/Analyst",
+        "value": "data_scientist_analyst"
+      },
+      {
+        "label": "IT Support Specialist",
+        "value": "it_support_specialist"
+      },
+      {
+        "label": "Network Administrator",
+        "value": "network_administrator"
+      },
+      {
+        "label": "Cybersecurity Specialist",
+        "value": "cybersecurity_specialist"
+      },
+      {
+        "label": "Systems Analyst",
+        "value": "systems_analyst"
+      },
+      {
+        "label": "Web Developer",
+        "value": "web_developer"
+      },
+      {
+        "label": "Telecom Engineer",
+        "value": "telecom_engineer"
+      },
+      {
+        "label": "Cloud Solutions Architect",
+        "value": "cloud_solutions_architect"
+      },
+      {
+        "label": "Digital Marketer",
+        "value": "digital_marketer"
+      }
+    ]
+  },
+  {
+    "name": "Legal Services",
+    "value": 6,
+    "subcategories": [
+      {
+        "label": "Lawyer",
+        "value": "lawyer"
+      },
+      {
+        "label": "Paralegal",
+        "value": "paralegal"
+      },
+      {
+        "label": "Legal Consultant",
+        "value": "legal_consultant"
+      },
+      {
+        "label": "Judge",
+        "value": "judge"
+      },
+      {
+        "label": "Magistrate",
+        "value": "magistrate"
+      },
+      {
+        "label": "Legal Clerk",
+        "value": "legal_clerk"
+      },
+      {
+        "label": "Compliance Officer",
+        "value": "compliance_officer"
+      }
+    ]
+  },
+  {
+    "name": "Creative and Media",
+    "value": 7,
+    "subcategories": [
+      {
+        "label": "Graphic Designer",
+        "value": "graphic_designer"
+      },
+      {
+        "label": "Photographer/Videographer",
+        "value": "photographer_videographer"
+      },
+      {
+        "label": "Content Creator/Influencer",
+        "value": "content_creator_influencer"
+      },
+      {
+        "label": "Journalist/Reporter",
+        "value": "journalist_reporter"
+      },
+      {
+        "label": "Editor/Copywriter",
+        "value": "editor_copywriter"
+      },
+      {
+        "label": "Advertising Executive",
+        "value": "advertising_executive"
+      },
+      {
+        "label": "Media Buyer/Planner",
+        "value": "media_buyer_planner"
+      },
+      {
+        "label": "Radio/TV Presenter",
+        "value": "radio_tv_presenter"
+      },
+      {
+        "label": "Actor/Performer",
+        "value": "actor_performer"
+      },
+      {
+        "label": "Musician/Producer",
+        "value": "musician_producer"
+      },
+      {
+        "label": "Public Relations Specialist",
+        "value": "public_relations_specialist"
+      }
+    ]
+  },
+  {
+    "name": "Business and Management",
+    "value": 8,
+    "subcategories": [
+      {
+        "label": "Entrepreneur/Business Owner",
+        "value": "entrepreneur_business_owner"
+      },
+      {
+        "label": "Business Analyst",
+        "value": "business_analyst"
+      },
+      {
+        "label": "Management Consultant",
+        "value": "management_consultant"
+      },
+      {
+        "label": "Human Resources Manager",
+        "value": "human_resources_manager"
+      },
+      {
+        "label": "Operations Manager",
+        "value": "operations_manager"
+      },
+      {
+        "label": "Project Manager",
+        "value": "project_manager"
+      },
+      {
+        "label": "Sales Manager",
+        "value": "sales_manager"
+      },
+      {
+        "label": "Customer Service Representative",
+        "value": "customer_service_representative"
+      },
+      {
+        "label": "Office Administrator",
+        "value": "office_administrator"
+      }
+    ]
+  },
+  {
+    "name": "Agriculture and Food Industry",
+    "value": 9,
+    "subcategories": [
+      {
+        "label": "Farmer",
+        "value": "farmer"
+      },
+      {
+        "label": "Agricultural Consultant",
+        "value": "agricultural_consultant"
+      },
+      {
+        "label": "Agronomist",
+        "value": "agronomist"
+      },
+      {
+        "label": "Food Scientist/Technologist",
+        "value": "food_scientist_technologist"
+      },
+      {
+        "label": "Fisherman",
+        "value": "fisherman"
+      },
+      {
+        "label": "Livestock Farmer",
+        "value": "livestock_farmer"
+      },
+      {
+        "label": "Agricultural Extension Officer",
+        "value": "agricultural_extension_officer"
+      },
+      {
+        "label": "Food Vendor/Caterer",
+        "value": "food_vendor_caterer"
+      },
+      {
+        "label": "Butcher",
+        "value": "butcher"
+      },
+      {
+        "label": "Baker",
+        "value": "baker"
+      }
+    ]
+  },
+  {
+    "name": "Retail and Sales",
+    "value": 10,
+    "subcategories": [
+      {
+        "label": "Shop Owner",
+        "value": "shop_owner"
+      },
+      {
+        "label": "Retail Manager",
+        "value": "retail_manager"
+      },
+      {
+        "label": "Sales Representative",
+        "value": "sales_representative"
+      },
+      {
+        "label": "Cashier",
+        "value": "cashier"
+      },
+      {
+        "label": "Inventory Manager",
+        "value": "inventory_manager"
+      },
+      {
+        "label": "Real Estate Agent",
+        "value": "real_estate_agent"
+      },
+      {
+        "label": "Market Trader",
+        "value": "market_trader"
+      }
+    ]
+  },
+  {
+    "name": "Transport and Logistics",
+    "value": 11,
+    "subcategories": [
+      {
+        "label": "Driver (Taxi, Bus, Truck)",
+        "value": "driver"
+      },
+      {
+        "label": "Transport Manager",
+        "value": "transport_manager"
+      },
+      {
+        "label": "Logistics Coordinator",
+        "value": "logistics_coordinator"
+      },
+      {
+        "label": "Fleet Manager",
+        "value": "fleet_manager"
+      },
+      {
+        "label": "Dispatch Rider",
+        "value": "dispatch_rider"
+      },
+      {
+        "label": "Warehouse Manager",
+        "value": "warehouse_manager"
+      },
+      {
+        "label": "Clearing and Forwarding Agent",
+        "value": "clearing_forwarding_agent"
+      }
+    ]
+  },
+  {
+    "name": "Construction and Engineering",
+    "value": 12,
+    "subcategories": [
+      {
+        "label": "Civil Engineer",
+        "value": "civil_engineer"
+      },
+      {
+        "label": "Mechanical Engineer",
+        "value": "mechanical_engineer"
+      },
+      {
+        "label": "Electrical Engineer",
+        "value": "electrical_engineer"
+      },
+      {
+        "label": "Architect",
+        "value": "architect"
+      },
+      {
+        "label": "Quantity Surveyor",
+        "value": "quantity_surveyor"
+      },
+      {
+        "label": "Construction Manager",
+        "value": "construction_manager"
+      },
+      {
+        "label": "Site Supervisor",
+        "value": "site_supervisor"
+      },
+      {
+        "label": "Plumber",
+        "value": "plumber"
+      },
+      {
+        "label": "Electrician",
+        "value": "electrician"
+      },
+      {
+        "label": "Carpenter",
+        "value": "carpenter"
+      },
+      {
+        "label": "Bricklayer",
+        "value": "bricklayer"
+      }
+    ]
+  },
+  {
+    "name": "Hospitality and Tourism",
+    "value": 13,
+    "subcategories": [
+      {
+        "label": "Hotel Manager",
+        "value": "hotel_manager"
+      },
+      {
+        "label": "Chef/Cook",
+        "value": "chef_cook"
+      },
+      {
+        "label": "Bartender",
+        "value": "bartender"
+      },
+      {
+        "label": "Waiter/Waitress",
+        "value": "waiter_waitress"
+      },
+      {
+        "label": "Tour Guide",
+        "value": "tour_guide"
+      },
+      {
+        "label": "Travel Agent",
+        "value": "travel_agent"
+      },
+      {
+        "label": "Event Planner/Coordinator",
+        "value": "event_planner_coordinator"
+      },
+      {
+        "label": "Housekeeper",
+        "value": "housekeeper"
+      }
+    ]
+  },
+  {
+    "name": "Non-Profit and NGO Sector",
+    "value": 14,
+    "subcategories": [
+      {
+        "label": "NGO Worker/Field Officer",
+        "value": "ngo_worker_field_officer"
+      },
+      {
+        "label": "Social Worker",
+        "value": "social_worker"
+      },
+      {
+        "label": "Community Development Officer",
+        "value": "community_development_officer"
+      },
+      {
+        "label": "Program Manager",
+        "value": "program_manager"
+      },
+      {
+        "label": "Fundraising Coordinator",
+        "value": "fundraising_coordinator"
+      }
+    ]
+  },
+  {
+    "name": "Skilled Trades",
+    "value": 15,
+    "subcategories": [
+      {
+        "label": "Tailor/Fashion Designer",
+        "value": "tailor_fashion_designer"
+      },
+      {
+        "label": "Barber/Hairdresser",
+        "value": "barber_hairdresser"
+      },
+      {
+        "label": "Beautician/Makeup Artist",
+        "value": "beautician_makeup_artist"
+      },
+      {
+        "label": "Mechanic",
+        "value": "mechanic"
+      },
+      {
+        "label": "Welder",
+        "value": "welder"
+      },
+      {
+        "label": "Carpenter",
+        "value": "carpenter"
+      },
+      {
+        "label": "Electrician",
+        "value": "electrician"
+      },
+      {
+        "label": "Painter",
+        "value": "painter"
+      },
+      {
+        "label": "Artisan (Craftsperson)",
+        "value": "artisan"
+      }
+    ]
+  },
+  {
+    "name": "Science and Research",
+    "value": 16,
+    "subcategories": [
+      {
+        "label": "Research Scientist",
+        "value": "research_scientist"
+      },
+      {
+        "label": "Environmental Scientist",
+        "value": "environmental_scientist"
+      },
+      {
+        "label": "Chemist",
+        "value": "chemist"
+      },
+      {
+        "label": "Biologist",
+        "value": "biologist"
+      },
+      {
+        "label": "Geologist",
+        "value": "geologist"
+      },
+      {
+        "label": "Laboratory Technician",
+        "value": "laboratory_technician"
+      }
+    ]
+  },
+  {
+    "name": "Real Estate and Property",
+    "value": 17,
+    "subcategories": [
+      {
+        "label": "Property Developer",
+        "value": "property_developer"
+      },
+      {
+        "label": "Estate Manager",
+        "value": "estate_manager"
+      },
+      {
+        "label": "Real Estate Agent",
+        "value": "real_estate_agent"
+      },
+      {
+        "label": "Land Surveyor",
+        "value": "land_surveyor"
+      }
+    ]
+  },
+  {
+    "name": "Financial Services",
+    "value": 18,
+    "subcategories": [
+      {
+        "label": "Stockbroker",
+        "value": "stockbroker"
+      },
+      {
+        "label": "Forex Trader",
+        "value": "forex_trader"
+      },
+      {
+        "label": "Financial Advisor",
+        "value": "financial_advisor"
+      },
+      {
+        "label": "Pension Fund Administrator",
+        "value": "pension_fund_administrator"
+      }
+    ]
+  },
+  {
+    "name": "Security Services",
+    "value": 19,
+    "subcategories": [
+      {
+        "label": "Security Guard",
+        "value": "security_guard"
+      },
+      {
+        "label": "Private Investigator",
+        "value": "private_investigator"
+      },
+      {
+        "label": "Firefighter",
+        "value": "firefighter"
+      },
+      {
+        "label": "Security Consultant",
+        "value": "security_consultant"
+      }
+    ]
+  },
+  {
+    "name": "Religious",
+    "value": 20,
+    "subcategories": [
+      {
+        "label": "Clergy (Pastor, Imam, Priest)",
+        "value": "clergy"
+      }
+    ]
+  },
+  {
+    "name": "Other",
+    "value": 21,
+    "subcategories": [
+      {
+        "label": "Other (Please specify)",
+        "value": "other"
+      }
+    ]
+  }
+]

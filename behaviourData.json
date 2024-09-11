@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Spending Habits",
+    "value": 1,
+    "subcategories": [
+      {
+        "label": "High-spender",
+        "value": "high_spender"
+      },
+      {
+        "label": "Budget-conscious",
+        "value": "budget_conscious"
+      },
+      {
+        "label": "Impulse buyer",
+        "value": "impulse_buyer"
+      }
+    ]
+  },
+  {
+    "name": "Shopping Preferences",
+    "value": 2,
+    "subcategories": [
+      {
+        "label": "Online shopping",
+        "value": "online_shopping"
+      },
+      {
+        "label": "In-store shopping",
+        "value": "in_store_shopping"
+      },
+      {
+        "label": "Hybrid shopping",
+        "value": "hybrid_shopping"
+      }
+    ]
+  },
+  {
+    "name": "Tech Savviness",
+    "value": 3,
+    "subcategories": [
+      {
+        "label": "Early adopter",
+        "value": "early_adopter"
+      },
+      {
+        "label": "Average user",
+        "value": "average_user"
+      },
+      {
+        "label": "Late adopter",
+        "value": "late_adopter"
+      }
+    ]
+  },
+  {
+    "name": "Social Media Usage",
+    "value": 4,
+    "subcategories": [
+      {
+        "label": "Facebook",
+        "value": "facebook"
+      },
+      {
+        "label": "Instagram",
+        "value": "instagram"
+      },
+      {
+        "label": "TikTok",
+        "value": "tiktok"
+      },
+      {
+        "label": "Frequency of use",
+        "value": "frequency_of_use"
+      }
+    ]
+  },
+  {
+    "name": "Subscription Services",
+    "value": 5,
+    "subcategories": [
+      {
+        "label": "Streaming services",
+        "value": "streaming_services"
+      },
+      {
+        "label": "Newsletters",
+        "value": "newsletters"
+      },
+      {
+        "label": "Box subscriptions",
+        "value": "box_subscriptions"
+      }
+    ]
+  },
+  {
+    "name": "Brand Loyalty",
+    "value": 6,
+    "subcategories": [
+      {
+        "label": "Loyal customer",
+        "value": "loyal_customer"
+      },
+      {
+        "label": "Brand switcher",
+        "value": "brand_switcher"
+      },
+      {
+        "label": "New customer",
+        "value": "new_customer"
+      }
+    ]
+  },
+  {
+    "name": "Travel Habits",
+    "value": 7,
+    "subcategories": [
+      {
+        "label": "Frequent traveller",
+        "value": "frequent_traveller"
+      },
+      {
+        "label": "Occasional traveller",
+        "value": "occasional_traveller"
+      },
+      {
+        "label": "No travel",
+        "value": "no_travel"
+      }
+    ]
+  }
+]
