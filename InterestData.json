@@ -1,7 +1,7 @@
 [
   {
     "name": "Health & Fitness",
-    "value": 1,
+    "value": "health_and_fitness",
     "subcategories": [
       {
         "label": "Gym-goers",
@@ -135,7 +135,7 @@
   },
   {
     "name": "Entertainment",
-    "value": 2,
+    "value": "entertainment",
     "subcategories": [
       {
         "label": "Action Movies",
@@ -505,7 +505,7 @@
   },
   {
     "name": "Food & Drink",
-    "value": 3,
+    "value": "food_and_drink",
     "subcategories": [
       {
         "label": "Vegan",
@@ -735,7 +735,7 @@
   },
   {
     "name": "Technology",
-    "value": 4,
+    "value": "technology",
     "subcategories": [
       {
         "label": "Gadgets",
@@ -757,7 +757,7 @@
   },
   {
     "name": "Sports",
-    "value": 5,
+    "value": "sports",
     "subcategories": [
       {
         "label": "Football",
@@ -783,7 +783,7 @@
   },
   {
     "name": "Fashion & Style",
-    "value": 6,
+    "value": "fashion_and_syle",
     "subcategories": [
       {
         "label": "High-end fashion",
@@ -801,7 +801,7 @@
   },
   {
     "name": "Home & Garden",
-    "value": 7,
+    "value": "home_and_garden",
     "subcategories": [
       {
         "label": "DIY enthusiasts",
@@ -819,7 +819,7 @@
   },
   {
     "name": "Art & Culture",
-    "value": 8,
+    "value": "art_and_culture",
     "subcategories": [
       {
         "label": "Visual arts",
@@ -841,7 +841,7 @@
   },
   {
     "name": "Finance & Investments",
-    "value": 9,
+    "value": "finance_and_investments",
     "subcategories": [
       {
         "label": "Stock market",
@@ -859,7 +859,7 @@
   },
   {
     "name": "Hobbies",
-    "value": 10,
+    "value": "hobbies",
     "subcategories": [
       {
         "label": "Reading",
