@@ -504,6 +504,82 @@
     ]
   },
   {
+    "name": "Politics",
+    "value": "politics",
+    "subcategories": [
+      {
+        "label": "Government",
+        "value": "government"
+      },
+      {
+        "label": "Elections",
+        "value": "elections"
+      },
+      {
+        "label": "International Relations",
+        "value": "international_relations"
+      },
+      {
+        "label": "Public Policy",
+        "value": "public_policy"
+      },
+      {
+        "label": "Political Parties",
+        "value": "political_parties"
+      },
+      {
+        "label": "Political Movements",
+        "value": "political_movements"
+      }
+    ]
+  },
+  {
+    "name": "Social Justice and Activism",
+    "value": "social_justice_and_activism",
+    "subcategories": [
+      {
+        "label": "Human Rights",
+        "value": "human_rights"
+      },
+      {
+        "label": "Environmental Justice",
+        "value": "environmental_justice"
+      },
+      {
+        "label": "Racial Justice",
+        "value": "racial_justice"
+      },
+      {
+        "label": "Gender Equality",
+        "value": "gender_equality"
+      },
+      {
+        "label": "LGBTQ+ Rights",
+        "value": "lgbtq_rights"
+      },
+      {
+        "label": "Economic Justice",
+        "value": "economic_justice"
+      },
+      {
+        "label": "Immigrant Rights",
+        "value": "immigrant_rights"
+      },
+      {
+        "label": "Disability Rights",
+        "value": "disability_rights"
+      },
+      {
+        "label": "Workers' Rights",
+        "value": "workers_rights"
+      },
+      {
+        "label": "Youth Activism",
+        "value": "youth_activism"
+      }
+    ]
+  },
+  {
     "name": "Food & Drink",
     "value": "food_and_drink",
     "subcategories": [
@@ -756,6 +832,48 @@
     ]
   },
   {
+    "name": "Animals and Pets",
+    "value": "animals_and_pets",
+    "subcategories": [
+      {
+        "label": "Pet Care",
+        "value": "pet_care"
+      },
+      {
+        "label": "Adoption and Rescue",
+        "value": "adoption_and_rescue"
+      },
+      {
+        "label": "Wildlife Observation",
+        "value": "wildlife_observation"
+      },
+      {
+        "label": "Animal Training",
+        "value": "animal_training"
+      },
+      {
+        "label": "Aquariums and Fishkeeping",
+        "value": "aquariums_and_fishkeeping"
+      },
+      {
+        "label": "Equestrian Activities",
+        "value": "equestrian_activities"
+      },
+      {
+        "label": "Veterinary Health",
+        "value": "veterinary_health"
+      },
+      {
+        "label": "Exotic Pets",
+        "value": "exotic_pets"
+      },
+      {
+        "label": "Animal Welfare Advocacy",
+        "value": "animal_welfare_advocacy"
+      }
+    ]
+  },
+  {
     "name": "Sports",
     "value": "sports",
     "subcategories": [
@@ -858,6 +976,152 @@
     ]
   },
   {
+    "name": "Psychology",
+    "value": "Psychology",
+    "subcategories": [
+      {
+        "label": "Clinical Psychology",
+        "value": "clinical_psychology"
+      },
+      {
+        "label": "Cognitive Psychology",
+        "value": "cognitive_psychology"
+      },
+      {
+        "label": "Developmental Psychology",
+        "value": "developmental_psychology"
+      },
+      {
+        "label": "Social Psychology",
+        "value": "social_psychology"
+      },
+      {
+        "label": "Industrial-Organizational Psychology",
+        "value": "industrial_organizational_psychology"
+      },
+      {
+        "label": "Educational Psychology",
+        "value": "educational_psychology"
+      },
+      {
+        "label": "Behavioral Psychology",
+        "value": "behavioral_psychology"
+      },
+      {
+        "label": "Forensic Psychology",
+        "value": "forensic_psychology"
+      },
+      {
+        "label": "Health Psychology",
+        "value": "health_psychology"
+      },
+      {
+        "label": "Positive Psychology",
+        "value": "positive_psychology"
+      },
+      {
+        "label": "Neuropsychology",
+        "value": "neuropsychology"
+      },
+      {
+        "label": "Sports Psychology",
+        "value": "sports_psychology"
+      }
+    ]
+  },
+  {
+    "name": "Environmentalism",
+    "value": "environmentalism",
+    "subcategories": [
+      {
+        "label": "Sustainability",
+        "value": "sustainability"
+      },
+      {
+        "label": "Climate Change Advocacy",
+        "value": "climate_change_advocacy"
+      },
+      {
+        "label": "Renewable Energy",
+        "value": "renewable_energy"
+      },
+      {
+        "label": "Recycling and Waste Management",
+        "value": "recycling_and_waste_management"
+      },
+      {
+        "label": "Wildlife Conservation",
+        "value": "wildlife_conservation"
+      },
+      {
+        "label": "Pollution Control",
+        "value": "pollution_control"
+      },
+      {
+        "label": "Eco-Friendly Living",
+        "value": "eco_friendly_living"
+      },
+      {
+        "label": "Community Clean-Up Initiatives",
+        "value": "community_clean_up_initiatives"
+      },
+      {
+        "label": "Environmental Education",
+        "value": "environmental_education"
+      }
+    ]
+  },
+  {
+    "name": "Philosophy",
+    "value": "philosophy",
+    "subcategories": [
+      {
+        "label": "Metaphysics",
+        "value": "metaphysics"
+      },
+      {
+        "label": "Epistemology",
+        "value": "epistemology"
+      },
+      {
+        "label": "Ethics",
+        "value": "ethics"
+      },
+      {
+        "label": "Logic",
+        "value": "logic"
+      },
+      {
+        "label": "Aesthetics",
+        "value": "aesthetics"
+      },
+      {
+        "label": "Political Philosophy",
+        "value": "political_philosophy"
+      },
+      {
+        "label": "Philosophy of Science",
+        "value": "philosophy_of_science"
+      },
+      {
+        "label": "Philosophy of Mind",
+        "value": "philosophy_of_mind"
+      },
+      {
+        "label": "Existentialism",
+        "value": "existentialism"
+      },
+      {
+        "label": "Phenomenology",
+        "value": "phenomenology"
+      },
+      {
+        "label": "Philosophy of Religion",
+        "value": "philosophy_of_religion"
+      }
+    ]
+  },
+  {
     "name": "Hobbies",
     "value": "hobbies",
     "subcategories": [
@@ -878,7 +1142,7 @@
         "value": "diy"
       },
       {
-        "label": "Crafting",
+        "label": "Crafting (e.g., knitting, crocheting, sewing)",
         "value": "crafting"
       },
       {
@@ -890,8 +1154,8 @@
         "value": "gardening"
       },
       {
-        "label": "Painting",
-        "value": "painting"
+        "label": "Painting or Drawing",
+        "value": "painting or drawing"
       },
       {
         "label": "Beading",
@@ -908,6 +1172,62 @@
       {
         "label": "Farming",
         "value": "farming"
+      },
+      {
+        "label": "Writing (e.g., fiction, poetry, journaling)",
+        "value": "writing"
+      },
+      {
+        "label": "Playing a Musical Instrument",
+        "value": "playing_musical_instrument"
+      },
+      {
+        "label": "Hiking or Nature Walks",
+        "value": "hiking_nature_walks"
+      },
+      {
+        "label": "Yoga or Meditation",
+        "value": "yoga_meditation"
+      },
+      {
+        "label": "Dancing (e.g., salsa, hip-hop, ballet)",
+        "value": "dancing"
+      },
+      {
+        "label": "Playing Sports (e.g., soccer, basketball, tennis)",
+        "value": "playing_sports"
+      },
+      {
+        "label": "Fishing",
+        "value": "fishing"
+      },
+      {
+        "label": "Creating Content",
+        "value": "creating_content"
+      },
+      {
+        "label": "Traveling or Backpacking",
+        "value": "traveling_backpacking"
+      },
+      {
+        "label": "Collecting (e.g., stamps, coins, action figures)",
+        "value": "collecting"
+      },
+      {
+        "label": "Gaming (e.g., video games, board games, card games)",
+        "value": "gaming"
+      },
+      {
+        "label": "Astronomy or Stargazing",
+        "value": "astronomy_stargazing"
+      },
+      {
+        "label": "Learning a New Language",
+        "value": "learning_new_language"
+      },
+      {
+        "label": "Other _____",
+        "value": "other"
       }
     ]
   }
