@@ -1226,9 +1226,278 @@
         "value": "learning_new_language"
       },
       {
-        "label": "Other _____",
+        "label": "Other",
+        "value": "other"
+      }
+    ]
+  },
+  {
+    "name": "Leisure Activities",
+    "value": "leisure_activities",
+    "subcategories": [
+      {
+        "label": "Participating in Events and Celebrations",
+        "value": "events_celebrations"
+      },
+      {
+        "label": "Attending Traditional Festivals",
+        "value": "traditional_festivals"
+      },
+      {
+        "label": "Exploring National Parks and Wildlife Reserves",
+        "value": "national_parks_wildlife_reserves"
+      },
+      {
+        "label": "Visiting Cultural Sites and Heritage Centers",
+        "value": "cultural_sites_heritage_centers"
+      },
+      {
+        "label": "Going to the Beach",
+        "value": "beach"
+      },
+      {
+        "label": "Watching Nollywood Movies",
+        "value": "nollywood_movies"
+      },
+      {
+        "label": "Enjoying Nigerian Cuisine",
+        "value": "nigerian_cuisine"
+      },
+      {
+        "label": "Listening to Music and Attending Music Festivals",
+        "value": "music_festivals"
+      },
+      {
+        "label": "Playing Games",
+        "value": "games"
+      },
+      {
+        "label": "Exploring Local Markets and Shopping for Crafts and Souvenirs",
+        "value": "local_markets_shopping"
+      },
+      {
+        "label": "Attending Sporting Events",
+        "value": "sporting_events"
+      },
+      {
+        "label": "Going on a Road Trip",
+        "value": "road_trip"
+      },
+      {
+        "label": "Walking or Strolling",
+        "value": "walking_strolling"
+      },
+      {
+        "label": "Cycling",
+        "value": "cycling"
+      },
+      {
+        "label": "Hosting Friends or Attending House Parties",
+        "value": "house_parties"
+      },
+      {
+        "label": "Swimming",
+        "value": "swimming"
+      },
+      {
+        "label": "Playing Tennis, Soccer, Golf, or Basketball",
+        "value": "sports_playing"
+      },
+      {
+        "label": "Going on Boat Cruises",
+        "value": "boat_cruises"
+      },
+      {
+        "label": "Taking City Tours",
+        "value": "city_tours"
+      },
+      {
+        "label": "Engaging in Religious and Spiritual Practices",
+        "value": "religious_spiritual_practices"
+      },
+      {
+        "label": "Other",
+        "value": "other"
+      }
+    ]
+  },
+  {
+    "name": "Lifestyle Choices",
+    "value": "lifestyle_choices",
+    "subcategories": [
+      {
+        "label": "Healthy Eating Habits",
+        "value": "healthy_eating_habits"
+      },
+      {
+        "label": "Regular Exercise and Fitness Routines",
+        "value": "regular_exercise_fitness_routines"
+      },
+      {
+        "label": "Mindfulness and Meditation Practices",
+        "value": "mindfulness_meditation_practices"
+      },
+      {
+        "label": "Yoga or Pilates Practice",
+        "value": "yoga_pilates_practice"
+      },
+      {
+        "label": "Sustainable Living Practices",
+        "value": "sustainable_living_practices"
+      },
+      {
+        "label": "Minimalism and Decluttering",
+        "value": "minimalism_decluttering"
+      },
+      {
+        "label": "Volunteering and Community Service",
+        "value": "volunteering_community_service"
+      },
+      {
+        "label": "Financial Planning and Budgeting",
+        "value": "financial_planning_budgeting"
+      },
+      {
+        "label": "Continuing Education and Lifelong Learning",
+        "value": "continuing_education_lifelong_learning"
+      },
+      {
+        "label": "Career Development and Skill Building",
+        "value": "career_development_skill_building"
+      },
+      {
+        "label": "Time Management and Productivity Strategies",
+        "value": "time_management_productivity_strategies"
+      },
+      {
+        "label": "Travelling and Exploration",
+        "value": "travelling_exploration"
+      },
+      {
+        "label": "Personal Development and Self-Improvement",
+        "value": "personal_development_self_improvement"
+      },
+      {
+        "label": "Socialising and Building Relationships",
+        "value": "socialising_building_relationships"
+      },
+      {
+        "label": "Spiritual or Religious Practices",
+        "value": "spiritual_religious_practices"
+      },
+      {
+        "label": "Creative Expression",
+        "value": "creative_expression"
+      },
+      {
+        "label": "Digital Detox and Screen Time Management",
+        "value": "digital_detox_screen_time_management"
+      },
+      {
+        "label": "Home Organization and Interior Design",
+        "value": "home_organization_interior_design"
+      },
+      {
+        "label": "Pet Ownership and Animal Welfare Advocacy",
+        "value": "pet_ownership_animal_welfare_advocacy"
+      },
+      {
+        "label": "Mindful Consumption and Ethical Purchasing Practices",
+        "value": "mindful_consumption_ethical_purchasing"
+      },
+      {
+        "label": "Other",
+        "value": "other"
+      }
+    ]
+  },
+  {
+    "name": "Events",
+    "value": "events",
+    "subcategories": [
+      {
+        "label": "Concerts and Music Festivals",
+        "value": "concerts_music_festivals"
+      },
+      {
+        "label": "Workshops and Seminars",
+        "value": "workshops_seminars"
+      },
+      {
+        "label": "Sports Events and Competitions",
+        "value": "sports_events_competitions"
+      },
+      {
+        "label": "Trade Shows and Exhibitions",
+        "value": "trade_shows_exhibitions"
+      },
+      {
+        "label": "Community Gatherings and Celebrations",
+        "value": "community_gatherings_celebrations"
+      },
+      {
+        "label": "Theater Performances and Plays",
+        "value": "theater_performances_plays"
+      },
+      {
+        "label": "Art Shows and Galleries",
+        "value": "art_shows_galleries"
+      },
+      {
+        "label": "Food Festivals and Culinary Events",
+        "value": "food_festivals_culinary_events"
+      },
+      {
+        "label": "Religious and Spiritual Gatherings",
+        "value": "religious_spiritual_gatherings"
+      },
+      {
+        "label": "Corporate and Networking Events",
+        "value": "corporate_networking_events"
+      },
+      {
+        "label": "Weddings and Private Ceremonies",
+        "value": "weddings_private_ceremonies"
+      },
+      {
+        "label": "Fashion Shows",
+        "value": "fashion_shows"
+      },
+      {
+        "label": "Fundraisers and Charity Events",
+        "value": "fundraisers_charity_events"
+      },
+      {
+        "label": "Outdoor Movie Nights",
+        "value": "outdoor_movie_nights"
+      },
+      {
+        "label": "Seasonal Festivals",
+        "value": "seasonal_festivals"
+      },
+      {
+        "label": "Science and Technology Expos",
+        "value": "science_technology_expos"
+      },
+      {
+        "label": "Literature and Book Fairs",
+        "value": "literature_book_fairs"
+      },
+      {
+        "label": "Gaming Tournaments and Conventions",
+        "value": "gaming_tournaments_conventions"
+      },
+      {
+        "label": "Children's and Family-Friendly Events",
+        "value": "children_family_friendly_events"
+      },
+      {
+        "label": "Other",
         "value": "other"
       }
     ]
   }
+  
+  
+  
 ]
