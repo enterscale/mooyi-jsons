@@ -707,9 +707,98 @@
       }
     ]
   },
+
+  {
+    "name": "Language",
+    "value": 21,
+    "subcategories": [
+      {
+        "label": "Hausa",
+        "value": "hausa"
+      },
+      {
+        "label": "Igbo",
+        "value": "igbo"
+      },
+      {
+        "label": "Yoruba",
+        "value": "yoruba"
+      },
+      {
+        "label": "Fulfulde",
+        "value": "fulfulde"
+      },
+      {
+        "label": "Kanuri",
+        "value": "kanuri"
+      },
+      {
+        "label": "Tiv",
+        "value": "tiv"
+      },
+      {
+        "label": "Ibibio",
+        "value": "ibibio"
+      },
+      {
+        "label": "Ijaw",
+        "value": "ijaw"
+      },
+      {
+        "label": "Nupe",
+        "value": "nupe"
+      },
+      {
+        "label": "Gbagyi",
+        "value": "gbagyi"
+      },
+      {
+        "label": "Edo",
+        "value": "edo"
+      },
+      {
+        "label": "Efik",
+        "value": "efik"
+      },
+      {
+        "label": "Igala",
+        "value": "igala"
+      },
+      {
+        "label": "Urhobo",
+        "value": "urhobo"
+      },
+      {
+        "label": "Itsekiri",
+        "value": "itsekiri"
+      },
+      {
+        "label": "Isoko",
+        "value": "isoko"
+      },
+      {
+        "label": "Berom",
+        "value": "berom"
+      },
+      {
+        "label": "Idoma",
+        "value": "idoma"
+      },
+      {
+        "label": "Ebira",
+        "value": "ebira"
+      },
+      {
+        "label": "Jukun",
+        "value": "jukun"
+      }
+    ]
+    
+  },
+  
   {
     "name": "Other",
-    "value": 21,
+    "value": 22,
     "subcategories": [
       {
         "label": "Other (Please specify)",
