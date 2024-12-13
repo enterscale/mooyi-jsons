@@ -1206,8 +1206,8 @@
         "value": "creating_content"
       },
       {
-        "label": "Traveling or Backpacking",
-        "value": "traveling_backpacking"
+        "label": "Travelling or Backpacking",
+        "value": "travelling_backpacking"
       },
       {
         "label": "Collecting (e.g., stamps, coins, action figures)",
@@ -1226,7 +1226,7 @@
         "value": "learning_new_language"
       },
       {
-        "label": "Other _____",
+        "label": "Other",
         "value": "other"
       }
     ]
