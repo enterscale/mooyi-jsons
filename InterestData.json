@@ -977,7 +977,7 @@
   },
   {
     "name": "Psychology",
-    "value": "Psychology",
+    "value": "psychology",
     "subcategories": [
       {
         "label": "Clinical Psychology",
@@ -1497,7 +1497,4 @@
       }
     ]
   }
-  
-  
-  
 ]
