@@ -1,7 +1,7 @@
 [
   {
     "name": "Spending Habits",
-    "value": 1,
+    "value": "spending_habits",
     "subcategories": [
       {
         "label": "High-spender",
@@ -19,7 +19,7 @@
   },
   {
     "name": "Shopping Preferences",
-    "value": 2,
+    "value": "shopping_preferences",
     "subcategories": [
       {
         "label": "Online shopping",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Tech Savviness",
-    "value": 3,
+    "value": "tech_savviness",
     "subcategories": [
       {
         "label": "Early adopter",
@@ -55,7 +55,7 @@
   },
   {
     "name": "Social Media Usage",
-    "value": 4,
+    "value": "social_media_usage",
     "subcategories": [
       {
         "label": "Facebook",
@@ -77,7 +77,7 @@
   },
   {
     "name": "Subscription Services",
-    "value": 5,
+    "value": "subscription_services",
     "subcategories": [
       {
         "label": "Streaming services",
@@ -95,7 +95,7 @@
   },
   {
     "name": "Brand Loyalty",
-    "value": 6,
+    "value": "brand_loyalty",
     "subcategories": [
       {
         "label": "Loyal customer",
@@ -113,7 +113,7 @@
   },
   {
     "name": "Travel Habits",
-    "value": 7,
+    "value": "travel_habits",
     "subcategories": [
       {
         "label": "Frequent traveller",
